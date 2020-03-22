@@ -14,14 +14,3 @@ module.exports = function countCats(matrix) {
   }
   return result;
 };
-
-
-const example = [
-  ['##', 'dd', '00'],
-  ['^^', '..', 'ss'],
-  ['AA', 'dd', 'Oo'],
-];
-
-const example2 = [
-  []
-];
